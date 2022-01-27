@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><atom:link href="https://cesarcneto.github.io/" rel="self" type="application/rss+xml"/><title>My Awesome Blog</title><link>https://cesarcneto.github.io/</link><description>This blog is awesome</description><lastBuildDate>Tue, 31 Aug 2021 22:08:56 +0200</lastBuildDate><generator>clj-rss</generator></channel></rss>
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JBake</title>
+    <link>https://cesarcneto.github.io</link>
+    <atom:link href="https://cesarcneto.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <description>JBake Bootstrap Template</description>
+    <language>en-gb</language>
+    <pubDate>Thu, 27 Jan 2022 10:02:43 -0300</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 10:02:43 -0300</lastBuildDate>
+
+
+  </channel> 
+</rss>
